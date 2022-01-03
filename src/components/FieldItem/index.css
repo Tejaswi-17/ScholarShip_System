@@ -1,0 +1,41 @@
+.title{
+    color:#ffdce0;
+    color: #f8edeb;
+    font-family:Verdana;
+  }
+  
+  .item1{
+      background-color: #ef233c;
+      border-style:solid;
+      border: 0;
+      cursor: pointer;
+      border-radius: 20px;
+      padding: 15px;
+      width: 17vw;
+      height: 140px;
+      margin-right: 15px;
+  }
+  
+  .item2{
+      background-color: #a67fdc;
+      border-style:solid;
+      border: 0;
+      cursor: pointer;
+      border-radius: 20px;
+      padding: 15px;
+      width: 17vw;
+      height: 140px;
+      margin-right: 15px;
+  }
+  
+  .item3{
+      background-color:#fca311;
+      border-style:solid;
+      border: 0;
+      border-radius: 20px;
+      padding: 15px;
+      width: 17vw;
+      height: 140px;
+      cursor: pointer;
+      margin-right: 15px;
+  }

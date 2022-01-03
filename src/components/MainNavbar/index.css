@@ -1,0 +1,58 @@
+.main-navbar-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh; 
+    padding: 20px;
+    width: 15vw;
+    background-color: #001233;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    color:#bebebe;
+}
+.headings{
+    margin-left: 15px;
+    color:#bebebe;
+    font-size: 22px;
+}
+.profile-container{
+  border-radius: 30px;
+  margin-left: 15px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.profilePic{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.menu-profile{
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dash{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menuItem-logout{
+    display: flex;
+    cursor: pointer;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: center;
+    margin-bottom: 5vh;
+}
